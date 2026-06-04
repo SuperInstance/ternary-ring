@@ -1,0 +1,9 @@
+[package]
+name = "ternary-ring"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+description = "Ring and field structures for ternary values: Z/3Z arithmetic, polynomial rings, GF(3^n) extensions, minimal polynomials, irreducibility testing"
+repository = "https://github.com/SuperInstance/ternary-ring"
+keywords = ["ternary", "ring", "field", "galois", "algebra"]
+categories = ["mathematics", "algorithms"]
