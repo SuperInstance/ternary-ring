@@ -112,3 +112,12 @@ fn main() {
 ## License
 
 MIT
+
+## See Also
+- **ternary-matrix** — related
+- **ternary-tensor** — related
+- **ternary-lattice** — related
+- **ternary-algebra** — related
+- **ternary-codes** — related
+- **ternary-logic** — related
+
